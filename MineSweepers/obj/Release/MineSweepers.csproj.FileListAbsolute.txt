@@ -1,0 +1,15 @@
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\bin\Release\MineSweeper.exe.config
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\bin\Release\MineSweeper.exe.manifest
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\bin\Release\MineSweeper.application
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\bin\Release\MineSweeper.exe
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\bin\Release\MineSweeper.pdb
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweepers.csprojAssemblyReference.cache
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweeper.Form1.resources
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweeper.Properties.Resources.resources
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweepers.UserControl1.resources
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweepers.csproj.GenerateResource.cache
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweepers.csproj.CoreCompileInputs.cache
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweeper.exe.manifest
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweeper.application
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweeper.exe
+C:\Users\Marat\Desktop\Raf\C# Master Class\MineSweepers\MineSweepers\obj\Release\MineSweeper.pdb
